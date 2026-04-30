@@ -1,0 +1,37 @@
+Symptom,Medicine,Dosage,Precaution,Severity
+Fever,Paracetamol,500mg (as needed),"Drink plenty of fluids, rest well",Low
+Headache,Aspirin,300mg,"Rest in a quiet room, avoid bright lights",Low
+Cough,Cough Syrup,10ml (twice daily),"Avoid cold drinks and ice cream",Low
+Cold,Cetirizine,10mg (at night),"May cause drowsiness, do not drive",Low
+Stomach Ache,Antacid,1 tablet,"Avoid spicy food for 24 hours",Medium
+Allergy,Loratadine,10mg,"Identify and avoid the allergen",Medium
+Infection,Amoxicillin,Consult Doctor,"Must complete the full antibiotic course",High
+High BP,Amlodipine,Consult Doctor,"Low sodium diet, regular monitoring",High
+Symptom,Medicine,Dosage,Precaution,Severity
+Fever,Paracetamol,500mg (as needed),"Drink plenty of fluids, rest well",Low
+Headache,Aspirin,300mg,"Rest in a quiet room, avoid bright lights",Low
+Cough,Cough Syrup,10ml (twice daily),"Avoid cold drinks and ice cream",Low
+Common Cold,Cetirizine,10mg (at night),"May cause drowsiness, do not drive",Low
+Stomach Ache,Antacid,1 tablet,"Avoid spicy food for 24 hours",Medium
+Acidity/Heartburn,Pantoprazole,40mg (Before breakfast),"Do not lie down immediately after eating",Low
+Diarrhea,ORS & Loperamide,As directed,"Stay hydrated, eat light food like curd rice",Medium
+Allergy,Loratadine,10mg,"Identify and avoid the allergen trigger",Medium
+Diabetes (High Sugar),Metformin,500mg,"Monitor sugar levels regularly, avoid sweets",High
+High Blood Pressure,Amlodipine,500mg,"Low sodium/salt diet, daily exercise",High
+Body Pain,Ibuprofen,400mg,"Take after meals to avoid stomach upset",Medium
+Skin Rash,Calamine Lotion,Apply locally,"Avoid scratching the affected area",Low
+Vomiting,Ondansetron,4mg,"Take small sips of water to stay hydrated",Medium
+Asthma/Wheezing,Salbutamol Inhaler,As prescribed,"Keep the inhaler accessible at all times",High
+Typhoid,Ciprofloxacin,500mg,"Strictly follow the full antibiotic course",High
+Malaria,Chloroquine,As prescribed,"Use mosquito nets and repellents",High
+Dengue,Paracetamol & Fluids,As needed,"Avoid Aspirin/Ibuprofen, monitor platelets",High
+Constipation,Bisacodyl,5mg,"Increase fiber intake and water consumption",Low
+Mouth Ulcers,Choline Salicylate Gel,Apply locally,"Avoid spicy and hot food",Low
+Eye Infection,Moxifloxacin Drops,1 drop (4 times daily),"Do not touch or rub your eyes",Medium
+Anemia (Low Iron),Iron Supplement,1 tablet daily,"Take with Vitamin C for better absorption",Medium
+Migraine,Sumatriptan,50mg,"Avoid loud noises and strong smells",Medium
+Chest Congestion,Mucinex,600mg,"Steam inhalation provides extra relief",Medium
+Medicine,Symptom,Dosage,Precaution,Severity
+Paracetamol,Fever,500mg twice a day,Take after food,Low
+Azithromycin,Cough,500mg once a day,Avoid cold water,Medium
+Cetirizine,Allergy,10mg at night,Causes drowsiness,Low
